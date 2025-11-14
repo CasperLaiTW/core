@@ -2,7 +2,7 @@
   "name": "casperlaitw/core",
   "description": "Crip Laravel core, fork from crip-laravel/core",
   "require": {
-    "laravel/framework": "~10.0|~11.0"
+    "laravel/framework": "~10.0|~11.0|~12.0"
   },
   "autoload": {
     "psr-4": {
